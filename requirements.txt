@@ -1,0 +1,9 @@
+django
+djangorestframework
+openai
+requests
+django-redis
+decouple
+psycopg2
+eventlet
+django-ratelimit

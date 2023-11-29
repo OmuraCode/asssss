@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "id": "step_eb56IyILNrabdz66Wxj2y4Dj",
+            "assistant_id": "asst_kUJ5bsDz2dlBsfl3ofKcCTCG",
+            "cancelled_at": null,
+            "completed_at": 1700795512,
+            "created_at": 1700795508,
+            "expired_at": null,
+            "failed_at": null,
+            "last_error": null,
+            "metadata": null,
+            "object": "thread.run.step",
+            "run_id": "run_stwq0u4gZVF8EsrVsEQ19iym",
+            "status": "completed",
+            "step_details": {
+                "message_creation": {
+                    "message_id": "msg_w5REHj7SVYQJhjCsjebp2lbw"
+                },
+                "type": "message_creation"
+            },
+            "thread_id": "thread_3TW2UE7OcJWl4pwhuI8NSgCt",
+            "type": "message_creation",
+            "expires_at": null
+        }
+    ],
+    "object": "list",
+    "first_id": "step_eb56IyILNrabdz66Wxj2y4Dj",
+    "last_id": "step_eb56IyILNrabdz66Wxj2y4Dj",
+    "has_more": false
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "msg_w5REHj7SVYQJhjCsjebp2lbw",
+            "assistant_id": "asst_kUJ5bsDz2dlBsfl3ofKcCTCG",
+            "content": [
+                {
+                    "text": {
+                        "annotations": [],
+                        "value": "\u0421\u0430\u043b\u0430\u043c! \u0421\u0438\u0437\u0433\u0435 \u043a\u0430\u043d\u0434\u0430\u0439 \u0436\u0430\u0440\u0434\u0430\u043c \u0431\u0435\u0440\u0435 \u0430\u043b\u0430\u043c? \u0416\u0430\u0440\u0434\u0430\u043c \u0431\u0435\u0440\u04af\u04af \u04af\u0447\u04af\u043d \u0441\u0438\u0437\u0434\u0438\u043d \u0441\u0443\u0440\u043e\u043e\u043b\u043e\u0440\u0443\u04a3\u0443\u0437\u0434\u0430\u0440 \u0431\u043e\u044e\u043d\u0447\u0430 \u0430\u0447\u044b\u043a \u0431\u043e\u043b\u0443\u0443\u0433\u0430 \u0430\u0440\u0430\u043a\u0435\u0442 \u043a\u044b\u043b\u0430\u043c."
+                    },
+                    "type": "text"
+                }
+            ],
+            "created_at": 1700795508,
+            "file_ids": [],
+            "metadata": {},
+            "object": "thread.message",
+            "role": "assistant",
+            "run_id": "run_stwq0u4gZVF8EsrVsEQ19iym",
+            "thread_id": "thread_3TW2UE7OcJWl4pwhuI8NSgCt"
+        },
+        {
+            "id": "msg_VxahaDyRUcQ0Nj6vHsUzQu3q",
+            "assistant_id": null,
+            "content": [
+                {
+                    "text": {
+                        "annotations": [],
+                        "value": "\u043a\u0430\u043a \u0442\u044b \u0447\u0430\u043a \u0442\u044b"
+                    },
+                    "type": "text"
+                }
+            ],
+            "created_at": 1700795507,
+            "file_ids": [],
+            "metadata": {},
+            "object": "thread.message",
+            "role": "user",
+            "run_id": null,
+            "thread_id": "thread_3TW2UE7OcJWl4pwhuI8NSgCt"
+        }
+    ],
+    "object": "list",
+    "first_id": "msg_w5REHj7SVYQJhjCsjebp2lbw",
+    "last_id": "msg_VxahaDyRUcQ0Nj6vHsUzQu3q",
+    "has_more": false
+}

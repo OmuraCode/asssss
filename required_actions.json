@@ -1,0 +1,12 @@
+{
+    "tool_calls": [
+        {
+            "id": "call_u5DPqVaC4RJSv6x7QOs8oKz4",
+            "function": {
+                "arguments": "{\"url\":\"https://eokpbzbviu045ql.m.pipedream.net\"}",
+                "name": "send_post_request"
+            },
+            "type": "function"
+        }
+    ]
+}
